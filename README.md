@@ -5,7 +5,7 @@
 - 🌱 &nbsp; A passionate **Software Developer** who loves clean UI and clean code.
 - 🎓 &nbsp; Learning **Deep Learning, CNN, and Computer Vision**.
 - 📱 &nbsp; Building Flutter apps including Ocular Vision, and Naani.
-- 💡 &nbsp; Exploring **Go, MongoDB, and backend systems**.
+- 💡 &nbsp; Exploring **Node.js, Firebase, and backend systems**.
 - ✨ &nbsp; I enjoy minimal design, writing, and building meaningful products.
 
 ---
@@ -21,8 +21,11 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 
 - 🛢 &nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
@@ -38,14 +41,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ---
-
-<br/>
-<br/>
-
-<a href="https://github.com/NikitaKhuju">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikitaKhuju&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKhuju&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
